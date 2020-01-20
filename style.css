@@ -28,7 +28,7 @@ body {
 
 }
 
-.profile-pic {
+.img-left {
   border-left: 6px solid #323332;
   border-bottom: 6px solid #323332;
   background-color: #535453;
@@ -36,6 +36,7 @@ body {
   margin-top: 4px;
   margin-bottom: 4px;
   margin-right: 2px;
+  align: left;
   
 
 }
