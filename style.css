@@ -16,12 +16,12 @@ img {
 
 /* unvisited link */
 a:link {
-    color: white;
+    color: ffffff;
 }
 
 /* visited link */
 a:visited {
-    color: white;
+    color: ffffff;
 }
 
 /* mouse over link */
@@ -35,7 +35,7 @@ a:active {
 }
 
 .title {
-    margin-bottom: -240px;
+    margin-bottom: -120px;
     margin-top: -240px;
 }
 
@@ -84,7 +84,7 @@ p {
 .topnav a {
   float: left;
   display: block;
-  color: #169b62;
+  color: #ffffff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
