@@ -35,8 +35,8 @@ a:active {
 }
 
 .title {
-    margin-bottom: -120px;
-    margin-top: -240px;
+  margin: auto;
+  padding: 4px;
 }
 
 
