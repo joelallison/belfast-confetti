@@ -13,6 +13,7 @@ img {
   border: 2px solid #dddd;
   border-radius: 6px;
   float: right;
+  img-align: right;
   
 }
 
