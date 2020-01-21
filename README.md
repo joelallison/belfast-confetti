@@ -1,3 +1,3 @@
 # belfast-confetti
 
-https://www.belfast-confetti.netlify.com
+https://belfast-confetti.netlify.com/
