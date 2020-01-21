@@ -1,7 +1,7 @@
 body {
   word-wrap: break-word;
   background-color: #e8dedc;
-  color: #202020;
+  color: #169b62;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
@@ -72,19 +72,19 @@ h1 span {
 
 p {
   text-align: inherit;
-  color: #202020;
+  color: #169b62;
   padding: 5px;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #BF4025;
+  background-color: #ff883e;
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #169b62;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -103,20 +103,6 @@ p {
 }
 
 
-}
-.heading-box {
-  border-radius: 6px;
-  color: #373837;
-  padding-top: 13px;
-  padding-bottom: 7px;
-  text-align: center;
-  background-color: #C2C4C1;
-  border-color: #444544;
-  border-width: 1px;
-  border-style: groove;
-  width: 500px;
-  margin: 2px auto;
-}
 .header {
   border-left: 6px solid #323332;
   text-align: left;
