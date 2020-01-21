@@ -35,7 +35,8 @@ a:active {
 }
 
 .title {
-    margin: auto;
+    margin-bottom: -240px;
+    margin-top: -240px;
 }
 
 
