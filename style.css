@@ -10,9 +10,9 @@ img {
 }
 
 .img-right {
-  border-radius: 6px;
-  border: 2px;
-
+  align: right;
+  border-style: solid;
+  border-width: 5px;
 
 }
 
