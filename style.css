@@ -10,10 +10,10 @@ img {
 }
 
 .img-right {
-  border: 2px solid #dddd;
   border-radius: 6px;
-  img-align: right;
-  
+  border: 2px;
+
+
 }
 
 /* unvisited link */
