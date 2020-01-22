@@ -5,6 +5,15 @@ body {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
+.paragraph-left {
+  float: left;
+  width: 33.4%;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+
+}
+
 .img-right {
   align: right;
   border-style: solid;
