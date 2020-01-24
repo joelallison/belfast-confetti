@@ -73,8 +73,10 @@ body {
 }
 
 .img-right {
+  margin-top;
   padding: 4px;
-  text-align: center;
+  text-align: right;
+  float: right;
 
 }
 
