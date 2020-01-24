@@ -73,14 +73,12 @@ body {
 }
 
 .img-right {
-  float: right;
   margin-right: 32px;
   margin-top: 16px;
   border-style: solid;
   border-width: 1px;
   border-radius: 4px;
   padding: 4px;
-  margin-left: -128px;
   background-color: #ffffff;
   text-align: center;
 
