@@ -12,7 +12,10 @@ body {
   float: center;
   background-color: #ffffff;
   text-align: left;
-  margin: 20%;
+  margin: 5%;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
 
 
 }
