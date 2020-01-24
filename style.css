@@ -1,6 +1,9 @@
 body {
   word-wrap: break-word;
-  background-image: url("image.jpg");
+  background-image: url("image.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center;
   color: #169b62;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
