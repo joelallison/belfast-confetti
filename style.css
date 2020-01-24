@@ -27,6 +27,7 @@ body {
   border-width: 1px;
   border-radius: 4px;
   text-align: center;
+  background-color: #ffffff;
 
 }
 
@@ -40,6 +41,7 @@ body {
   border-width: 1px;
   border-radius: 2px;
   text-align: center;
+  background-color: #ffffff;
 
 }
 
@@ -53,6 +55,7 @@ body {
   border-radius: 2px;
   text-align: right;
   width: 47%;
+  background-color: #ffffff;
 
 
 }
@@ -65,7 +68,8 @@ body {
   border-width: 1px;
   border-radius: 4px;
   padding: 4px;
-  margin-left: -128px
+  margin-left: -128px;
+  background-color: #ffffff;
 
 }
 
