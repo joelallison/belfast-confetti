@@ -8,6 +8,14 @@ body {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
+.thicc-boi {
+  float: center;
+  background-color: #ffffff;
+  text-align: left;
+  margin: 20%;
+
+
+}
 .footer {
   position: fixed;
   left: 0;
