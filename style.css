@@ -94,9 +94,11 @@ a:active {
 }
 
 .title {
+  margin-left: 8px;
   margin: auto;
-  padding: 4px;
+  padding: 12px;
   background-color: #ffffff;
+  
 }
 
 
