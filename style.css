@@ -1,3 +1,14 @@
+fitty-irish-dude-ma-g {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+
+
+}
+
+
 body {
   word-wrap: break-word;
   background-image: url("image.jpg"); /* The image used */
