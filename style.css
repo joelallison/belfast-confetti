@@ -71,8 +71,6 @@ body {
 }
 
 .paragraph-whole-right {
-  position: absolute;
-  bottom: 0;
   float: right;
   width: 47%;
   background-color: #ffffff;
@@ -87,8 +85,6 @@ body {
 }
 
 .poem-paragraph {
-  position: absolute;
-  bottom: 0;
   margin-left: 8px;
   margin-top: 16px;
   padding: 5px;
