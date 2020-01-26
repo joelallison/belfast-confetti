@@ -1,5 +1,5 @@
 fitty-irish-dude-ma-g {
-  position: fixed;
+  position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -10,6 +10,7 @@ fitty-irish-dude-ma-g {
 
 
 body {
+  position: relative;
   word-wrap: break-word;
   background-image: url("image.jpg"); /* The image used */
   background-color: #cccccc; /* Used if the image is unavailable */
@@ -31,6 +32,7 @@ body {
 
 
 }
+
 .footer {
   position: fixed;
   left: 0;
