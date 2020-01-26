@@ -121,10 +121,17 @@ body {
 
 .img-right {
   height: 100%;
-  margin-top;
   padding: 4px;
   text-align: right;
   float: right;
+
+}
+
+.img-left {
+  height: 100%;
+  padding: 4px;
+  text-align: left;
+  float: left;
 
 }
 
