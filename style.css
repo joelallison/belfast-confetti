@@ -16,6 +16,7 @@ fitty-irish-dude-ma-g {
 
 
 body {
+  font-size: 20px;
   position: relative;
   word-wrap: break-word;
   background-image: url("tartanbg.png"); /* The image used */
