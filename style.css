@@ -58,8 +58,8 @@ body {
   float: left;
   width: 47%;
   background-color: #ffffff;
-  text-align: left;
-  margin: 5%;
+  text-align: right;
+  margin: 2%;
   border-style: solid;
   border-width: 1px;
   border-radius: 4px;
@@ -73,7 +73,7 @@ body {
   width: 47%;
   background-color: #ffffff;
   text-align: left;
-  margin: 5%;
+  margin: 2%;
   border-style: solid;
   border-width: 1px;
   border-radius: 4px;
