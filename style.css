@@ -46,6 +46,11 @@ img {
   margin-right: auto;
 }
 
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .footer {
   position: fixed;
